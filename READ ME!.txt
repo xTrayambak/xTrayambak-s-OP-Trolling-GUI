@@ -1,0 +1,9 @@
+--//xTrayambak's OP Trolling GUI\\--
+--//Credits\\--
+--//xTrayambak - Main scripter and developer.\\--
+--Thinking to ask people to join me if this gets popular.
+PLEASE NOTE THAT I OR ROBLOX MODDING IS NOT RESPONSIBLE FOR ANY DAMAGE!
+You must credit me if a script is copied! Scripts also may have bugs. If you have any problems, I'm also linking a .rbxl file so you can copy the gui from there.
+Thank you for using my GUI!
+-xTrayambak
+-Roblox Modding

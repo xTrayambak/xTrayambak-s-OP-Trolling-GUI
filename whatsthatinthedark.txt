@@ -1,0 +1,7 @@
+script.Parent.MouseButton1Click:Connect(function()
+	local myqueen = game.ReplicatedStorage.yesmyqueen
+	local realqueen = myqueen:Clone()
+    realqueen.Parent = script.Parent.Parent.Parent.Parent.Parent.Backpack
+    game.Lighting.FogStart = 100
+    game.Lighting.FogEnd = 10
+end)

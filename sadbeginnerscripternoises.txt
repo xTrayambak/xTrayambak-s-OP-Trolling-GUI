@@ -1,0 +1,11 @@
+script.Parent.MouseButton1Click:Connect(function()
+	local loud = Instance.new("Sound", game.Workspace) --Adds a Sound
+	loud.SoundId = 4465573536 --Loud shit ID
+	local yaoi = Instance.new("Hint", game.Workspace)
+	yaoi.Text = "idc u clicked this"
+	repeat
+	game.Workspace.Floor.Material = "Neon"
+	game.Workspace.Floor.Material = "Plastic"
+	game.Workspace.Floor.Material = "Grass"
+	until game.Workspace.neverending.Value == 1 --lol it's never gonna become 1 so die
+end)
