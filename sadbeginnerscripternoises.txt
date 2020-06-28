@@ -3,9 +3,11 @@ script.Parent.MouseButton1Click:Connect(function()
 	loud.SoundId = 4465573536 --Loud shit ID
 	local yaoi = Instance.new("Hint", game.Workspace)
 	yaoi.Text = "idc u clicked this"
-	repeat
+	repeat 
 	game.Workspace.Floor.Material = "Neon"
 	game.Workspace.Floor.Material = "Plastic"
-	game.Workspace.Floor.Material = "Grass"
+	game.Workspace.Floor.Material = "Grass" 
 	until game.Workspace.neverending.Value == 1 --lol it's never gonna become 1 so die
 end)
+--EPILEPSY WARNING
+--I'll add a stop trigger aswell if you feel uncomfortable.
